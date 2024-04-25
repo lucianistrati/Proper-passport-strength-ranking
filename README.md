@@ -1,5 +1,13 @@
 # Proper-passport-strength-ranking
 
+Order:
+
+Passport power related ones
+nominal
+PPP
+
+
+
 This repository contains several ways in which a passport strength ranking looks like when adjusted not only for the number of countries that you are allowed to visit VISA-free with your passport, but also how those countries are doing in terms of:
 
 - HDI (Human Development Index)
